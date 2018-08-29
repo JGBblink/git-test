@@ -72,5 +72,6 @@ public class MainDemo {
         System.out.println(defaultMethod.sum(2,9));
         System.out.println(defaultMethod.execute(10,5));
         System.out.println(defaultMethod.execute2(10,5));
+
     }
 }
